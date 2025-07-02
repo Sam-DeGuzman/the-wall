@@ -1,3 +1,16 @@
+# The Wall
+
+Welcome to **The Wall**! 🧱
+
+Share your thoughts, post photos, and connect with your network in a fun, modern social feed. Whether you want to drop a quick note, show off your latest adventure, or just see what your friends are up to, The Wall is your digital playground.
+
+-   ✍️ Post messages
+-   📸 Upload and share photos
+-   🧑‍💻 Profiles with bios
+-   🚀 Powered by Next.js & Supabase
+
+Jump in, express yourself, and make your mark on The Wall!
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
