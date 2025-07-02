@@ -82,7 +82,6 @@ export default function Home() {
         if (postText.trim() === '' || !userId) return;
         const author_user_id = userId;
         const message_text = postText;
-        const timestamp = new Date().toISOString();
         let photo_url = undefined;
         if (photoFile) {
             const fileExt = photoFile.name.split('.').pop();
@@ -110,7 +109,6 @@ export default function Home() {
                 {
                     author_user_id,
                     message_text,
-                    timestamp,
                     photo_url,
                 },
             ])
